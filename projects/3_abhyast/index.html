@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Mayank Mittal</title>
+  <title>Mayank Mittal | Multi- Robot System for Bomb Disposal</title>
   <meta name="description" content="A simple website for a Robotics Enthusiast.
 ">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/3_abhyast/">
 </head>
 
 
@@ -63,35 +63,43 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <!-- <div class="header-bar">
-  <h1></h1>
-  <h2></h2>
-</div> -->
+        <div class="post">
 
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2017/ros-tips/">Useful Tips for ROS Users</a></h2>
-      <p class="post-meta">November 7, 2017</p>
-      <p>Getting past a beginner's understanding of ROS quickly and properly.</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2017/robotics-club/">Robotics Club: Why it exists?</a></h2>
-      <p class="post-meta">September 12, 2017</p>
-      <p>A few important reasons why student community groups help in moulding a scientific mind.</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2017/hello-world/">Hello World!</a></h2>
-      <p class="post-meta">August 3, 2017</p>
-      <p>A mandatory post where I introduce myself and the purpose of the blog section.</p>
-    </li>
-  
-</ul>
+  <header class="post-header">
+    <h1 class="post-title">Multi- Robot System for Bomb Disposal</h1>
+    <h5 class="post-description">Funded by The Boeing Company</h5>
+  </header>
 
+  <article class="post-content Multi- Robot System for Bomb Disposal clearfix">
+    <p><em>Duration:</em> July’16 – March’17</p>
 
+<p><em>Supervisors:</em> <a href="http://home.iitk.ac.in/~bhattacs/">Prof. Shantanu Bhattacharya</a>, <a href="http://www.iitk.ac.in/new/dr-s-kamle">Prof. S. Kamle</a></p>
 
+<p>Aerial and ground robots together form a ‘symbiotic’ relationship in which they help overcome each others limitations and leverage their capabilities. Although research has made steady progress over the years on this, most of the work is limited to laboratory settings and is not sufficient for real world challenges.</p>
+
+<p>In this project, we built a multi-robot autonomus system that is capable of performing operations such as bomb- disposal. Considering the severity of the challenges, we are focused on solving our problem for indoor environments.</p>
+
+<p align="center">
+    <a class="button" href="/assets/documents/projects/Abhyast_Plan.jpg" target="_blank">View Postor </a>
+    <a class="button" href="https://github.com/Boeing-Abhyast/Phase-VII" target="_blank">View Code</a>
+    <a class="button" href="http://www.iitk.ac.in/dord/boeing/public/" target="_blank">Visit Website</a>
+</p>
+
+<h3 id="ground-robot-alpha">Ground robot: <strong>Alpha</strong></h3>
+
+<p>My work centerd around the system integration and perception parts for the ground robot. Using <em>Alpha</em>, a two- wheeled differential drive robot manufactured by us, I implemented various SLAM algorithms such as GMapping, and RGBD-SLAM on it. Through the <a href="http://wiki.ros.org/navigation">navigation</a> package on ROS, I applied the relaxed A* algorithm to traverse an optimal path to a specified goal. We tested our approach simulation as well as in real world.</p>
+
+<p>I also trained the real-time object detection model <a href="https://pjreddie.com/darknet/yolov2/">YOLOv2</a> to detect suspect objects from monocular camera inputs, and projected the location of these objects on to a map using the corresponding depth images</p>
+
+<div>
+    <img class="col three" height="50%" width="50%" src="/assets/img/projects/abhyast/alpha_rviz.png" alt="" title="URDF of Alpha" />
+</div>
+
+  </article>
+
+  
+
+</div>
 
       </div>
     </div>
