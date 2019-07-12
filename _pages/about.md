@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: About
 permalink: /
-title: <strong>Mayank</strong> Mittal
-description: Graduate Student | Robotics, Systems, and Control, ETH Zurich
+title: <strong>Bishwa Ranjan Si</strong>
+description: Post Graduate Engineer Trainee | Sterlite Technologies
 
 profile:
   align: right
@@ -14,12 +14,11 @@ social: true
 years: [2018]
 ---
 
-I am a graduate student in Robotics, Systems and Controls program at [ETH Zurich](http://www.master-robotics.ethz.ch/). My research interests lie in designing learning-based systems for navigation and manipulation in unknown environments. I am currently working at [Robotic Systems Lab](http://www.rsl.ethz.ch/) under [Prof. Marco Hutter](http://www.rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911) on learning locomotion-manipulation policies for ANYmal.
+I am currently working as a Post Grraduate Engineer Trainee in [Sterlite Technologies](https://www.sterlitetech.com/). My [Robotic Systems Lab](http://www.rsl.ethz.ch/) under [Prof. Marco Hutter](http://www.rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911) on learning locomotion-manipulation policies for ANYmal.
 
-I graduated from [IIT Kanpur](http://www.iitk.ac.in/) in May 2018 with a Bachelors in Electrical Engineering. In the summer of 2017, I worked with [Prof. Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/) on predicting landing sites from aerial images. During my undergraduate program, I co-founded the [AUV team](https://auviitk.com) for marine robotics.
+I recently graduated from [IIT Kanpur](http://www.iitk.ac.in/) in June 2019 with a Masters and Bachelors(dual) in Chemical Engineering. During my Masters, I worked with [Prof. Rahul Mangal](http://home.iitk.ac.in/~mangalr/) on Active colloids. During my undergraduate program, I co-founded the [AUV team](https://auviitk.com) for marine robotics.
 
-Apart from my academic engagements, I enjoy playing lawn tennis, and running! In my spare time, I often end up on GitHub _(a good replacement to other form of social media)_.
-
+Apart from my academics, I like reading novels(fantasy,thrillers) and watching documentaries of important events and about important people.
 <div class="post">
 
   {% if page.news %}
