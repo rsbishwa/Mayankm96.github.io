@@ -14,8 +14,7 @@ social: true
 years: [2018]
 ---
 
-I am currently working as a Post Grraduate Engineer Trainee in [Sterlite Technologies](https://www.sterlitetech.com/). My [Robotic Systems Lab](http://www.rsl.ethz.ch/) under [Prof. Marco Hutter](http://www.rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911) on learning locomotion-manipulation policies for ANYmal.
-
+I am currently working as a Post Grraduate Engineer Trainee in [Sterlite Technologies](https://www.sterlitetech.com/). 
 I recently graduated from [IIT Kanpur](http://www.iitk.ac.in/) in June 2019 with a Masters and Bachelors(dual) in Chemical Engineering. During my Masters, I worked with [Prof. Rahul Mangal](http://home.iitk.ac.in/~mangalr/) on Active colloids. During my undergraduate program, I co-founded the [AUV team](https://auviitk.com) for marine robotics.
 
 Apart from my academics, I like reading novels(fantasy,thrillers) and watching documentaries of important events and about important people.
