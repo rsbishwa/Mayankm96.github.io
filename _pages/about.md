@@ -5,7 +5,7 @@ title: <strong>Bishwa Ranjan Si</strong>
 description: Post Graduate Engineer Trainee | Sterlite Technologies
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: #mention address
 
@@ -15,7 +15,8 @@ years: [2018]
 ---
 
 I am currently working as a Post Grraduate Engineer Trainee in [Sterlite Technologies](https://www.sterlitetech.com/). 
-I recently graduated from [IIT Kanpur](http://www.iitk.ac.in/) in June 2019 with a Masters and Bachelors(dual) in Chemical Engineering. During my Masters, I worked with [Prof. Rahul Mangal](http://home.iitk.ac.in/~mangalr/) on Active colloids. During my undergraduate program, I co-founded the [AUV team](https://auviitk.com) for marine robotics.
+
+I recently graduated from [IIT Kanpur](http://www.iitk.ac.in/) in June 2019 with a Masters and Bachelors(dual) in Chemical Engineering. During my Masters, I worked with [Prof. Rahul Mangal](http://home.iitk.ac.in/~mangalr/) on Active colloids.
 
 Apart from my academics, I like reading novels(fantasy,thrillers) and watching documentaries of important events and about important people.
 <div class="post">
