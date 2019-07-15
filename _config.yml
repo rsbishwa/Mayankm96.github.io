@@ -1,15 +1,15 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Mayank Mittal
-email: mittalma@student.ethz.ch
+name: Bishwa Ranjan Si
+email: bishwa.si@sterlite.com
 description: > # this means to ignore newlines until "url:"
-  A simple website for a Robotics Enthusiast.
+  A simple website for me.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url: # the base hostname & protocol for your site
+url: rbishwa.github.com # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
